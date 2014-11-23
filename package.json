@@ -1,11 +1,12 @@
 {
     "name": "my-app",
     "description": "My Danf application",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Me <me@myhome.me>",
     "contributors": [],
     "dependencies": {
-        "danf": "0.1.0"
+        "danf": "0.1.1",
+        "amdefine": "0.1.*"
     },
     "devDependencies": {
         "mocha": "2.0.*",
