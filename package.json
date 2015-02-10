@@ -9,7 +9,7 @@
         "amdefine": "0.1.*"
     },
     "devDependencies": {
-        "mocha": "2.0.*",
+        "mocha": "2.1.*",
         "supertest": "0.15.*"
     },
     "keywords": [
