@@ -5,12 +5,12 @@
     "author": "Me <me@myhome.me>",
     "contributors": [],
     "dependencies": {
-        "danf": "0.2.*",
-        "amdefine": "0.1.*"
+        "danf": "~0.4.3",
+        "amdefine": "~1.0.1"
     },
     "devDependencies": {
-        "mocha": "2.1.*",
-        "supertest": "0.15.*"
+        "mocha": "~3.1.2",
+        "supertest": "~2.0.1"
     },
     "keywords": [
         "my-app",
